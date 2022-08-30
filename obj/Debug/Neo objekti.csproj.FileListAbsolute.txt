@@ -1,0 +1,12 @@
+E:\Neo objekti\bin\Debug\Neo objekti.exe.config
+E:\Neo objekti\bin\Debug\Neo objekti.exe
+E:\Neo objekti\bin\Debug\Neo objekti.pdb
+E:\Neo objekti\obj\Debug\Neo objekti.csprojAssemblyReference.cache
+E:\Neo objekti\obj\Debug\Neo_objekti.unos.resources
+E:\Neo objekti\obj\Debug\Neo_objekti.fgraf.resources
+E:\Neo objekti\obj\Debug\Neo_objekti.autor.resources
+E:\Neo objekti\obj\Debug\Neo_objekti.Properties.Resources.resources
+E:\Neo objekti\obj\Debug\Neo objekti.csproj.GenerateResource.cache
+E:\Neo objekti\obj\Debug\Neo objekti.exe
+E:\Neo objekti\obj\Debug\Neo objekti.pdb
+E:\Neo objekti\obj\Debug\Neo_objekti.Neo.resources
